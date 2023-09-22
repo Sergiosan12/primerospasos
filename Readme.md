@@ -10,12 +10,41 @@ Jugadores del Barcelona
 
 Juega en la posición de portero
 
-> Esto es una cita textual
+> Competiciones españolas
 
 **Partidos importantes**
 
-*Partidos de copa*
+*Equipos copa del rey* ~~Elimindados~~
 
-~~Equipos eliminados en fase de grupos~~
+Celta, Barcelona, Real Madrid, ~~Espanyol~~, ~~Cadiz~~
+
+**Los goles valdrán _doble_ a partir del minuto 80**
+
+***Los equipos eliminados tendrán que vender a su mejor jugador al equipo rival***
+
+# Fórmulas químicas y matemáticas
+
+La fórmula del agua es H<sub>2</sub>0
+
+8 también se puede escrbir como 2<sup>3</sup>
+
+Se puede usar `ls -a` para ver todos los archivos ocultos
+
+Otros comandos útiles en la consola son:
+```
+pwd
+cd
+mkdir
+```
+
+El azufre es de color amarillo `rgb(255, 255, 0)`
+
+La página web más usada en 2023 fue [Facebook](https://www.facebook.com/?locale=es_ES).
+
+
+
+
+
+
 
 
