@@ -41,7 +41,7 @@ El azufre es de color amarillo `rgb(255, 255, 0)`
 
 La página web más usada en 2023 fue [Facebook](https://www.facebook.com/?locale=es_ES).
 
-
+![Cachorro de Husky](https://images.hola.com/imagenes/mascotas/20201005176621/perro-husky-raza-perro-lobo/0-874-229/husky-t.jpg)
 
 
 
