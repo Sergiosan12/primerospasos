@@ -1,8 +1,21 @@
-# Titulo
+# Equipos de fútbol
 
-Esto es un readme para aprender a usar git
+Lista de equipos de fútbol
 
-> Esto es una cita
+## Barcelona
 
-** Texto en negrita **
+Jugadores del Barcelona
+
+### Ter Stegen
+
+Juega en la posición de portero
+
+> Esto es una cita textual
+
+**Partidos importantes**
+
+*Partidos de copa*
+
+~~Equipos eliminados en fase de grupos~~
+
 
